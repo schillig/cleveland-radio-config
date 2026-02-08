@@ -9,7 +9,7 @@
     { "display": "88.9", "callLetters": "WSTB", "location": "Streetsboro", "streamUrl": "https://wp.rock889.com/streaming#play" },
     { "display": "89.1", "callLetters": "WKSV", "location": "Thompson", "streamUrl": "" },
     { "display": "89.7", "callLetters": "WKSU", "location": "Kent", "streamUrl": "https://live.ideastream.org/wksu4.128.mp3?_gl=1*17nsm9r*_gcl_aw*R0NMLjE3NzA1NjA0NTMuQ2owS0NRaUFoYUhNQmhEMkFSSXNBUEFVX0Q0ZFVENl9nMlRwNWI4OE93VkVXN2hSdm1GVzZjRjdua2wtdmVseHFoMVlvbTBfazlLSG5UMGFBaTM4RUFMd193Y0I.*_gcl_au*MTg2NzgxMDc2OC4xNzcwNTYwMjAy*_ga*NTYzMjQ2NDg2LjE3NzA1NjAyMDI.*_ga_E6Z6PD35XM*czE3NzA1NjAyMDIkbzEkZzEkdDE3NzA1NjA0NTMkajU2JGwwJGgw" },
-    { "display": "90.3", "callLetters": "WCLV", "location": "Cleveland", "streamUrl": "" },
+    { "display": "90.3", "callLetters": "WCLV", "location": "Cleveland", "streamUrl": "https://fl1.streamguys1.com/wclv/playlist.m3u8" },
     { "display": "91.1", "callLetters": "WRUW", "location": "Cleveland", "streamUrl": "http://wruw-stream.wruw.org/stream.html" },
     { "display": "91.3", "callLetters": "WAPS", "location": "Akron", "streamUrl": "http://www.913thesummit.com/audio" },
     { "display": "91.5", "callLetters": "WKHR", "location": "Bainbridge", "streamUrl": "https://www.wkhr.org/listen-online" },
