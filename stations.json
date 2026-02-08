@@ -4,7 +4,7 @@
     "updated": "2026-02-08"
   },
   "stations": [
-    { "display": "88.1", "callLetters": "WZIP", "location": "Akron", "streamUrl": "https://tunein.com/radio/WZIP-881-s24354/" },
+    { "display": "88.1", "callLetters": "WZIP", "location": "Akron", "streamUrl": "https://www.streamvortex.com:8444/s/11300" },
     { "display": "88.5", "callLetters": "WYSU", "location": "Youngstown", "streamUrl": "" },
     { "display": "88.9", "callLetters": "WSTB", "location": "Streetsboro", "streamUrl": "" },
     { "display": "89.1", "callLetters": "WKSV", "location": "Thompson", "streamUrl": "" },
