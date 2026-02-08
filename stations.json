@@ -27,7 +27,7 @@
     { "display": "95.5", "callLetters": "WKLV", "location": "Cleveland", "streamUrl": "" },
     { "display": "97.1", "callLetters": "WREO", "location": "Ashtabula", "streamUrl": "" },
     { "display": "97.5", "callLetters": "WONE", "location": "Akron", "streamUrl": "" },
-    { "display": "98.1", "callLetters": "WKDD", "location": "Munroe Falls", "streamUrl": ""https://radio-locator.com/cgi-bin/url?id=WKDD-FM },
+    { "display": "98.1", "callLetters": "WKDD", "location": "Munroe Falls", "streamUrl": "https://radio-locator.com/cgi-bin/url?id=WKDD-FM" },
     { "display": "98.5", "callLetters": "WNCX", "location": "Cleveland", "streamUrl": "" },
     { "display": "98.9", "callLetters": "WMXY", "location": "Youngstown", "streamUrl": "" },
     { "display": "99.1", "callLetters": "W256BT", "location": "Cleveland", "streamUrl": "" },
